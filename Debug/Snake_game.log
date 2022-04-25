@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Electronica Care\source\repos\Snake_game\Source.cpp(20,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Electronica Care\source\repos\Snake_game\Source.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake_game.vcxproj -> C:\Users\Electronica Care\source\repos\Snake_game\Debug\Snake_game.exe
